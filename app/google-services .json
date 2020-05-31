@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326654455131",
+    "firebase_url": "https://gameappbane.firebaseio.com",
+    "project_id": "gameappbane",
+    "storage_bucket": "gameappbane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326654455131:android:7ca254c62c356770fe3e7e",
+        "android_client_info": {
+          "package_name": "com.baza.gameappbane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326654455131-3qi8n3t8tla7qjfl2kl5j5qlv98c442c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baza.gameappbane",
+            "certificate_hash": "4ebd3a30a6b3a6a03f4dca387dc63edb0ab4f4d5"
+          }
+        },
+        {
+          "client_id": "326654455131-i1qbhu7vi1bpd54jqv5iq7unlrml3h9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0ZZWGvQw3uOUhPR6vXxZFOxRoQgnM2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326654455131-i1qbhu7vi1bpd54jqv5iq7unlrml3h9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
